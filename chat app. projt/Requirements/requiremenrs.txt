@@ -1,0 +1,11 @@
+CLIENT:
+
+import socket
+import threading
+import tkinter as tk
+from tkinter import scrolledtext, simpledialog
+
+SERVER:
+
+import socket
+import threading
